@@ -1,0 +1,6 @@
+@PolicyBillingIntegrationAPIs_HostAddress = http://localhost:5251
+
+GET {{PolicyBillingIntegrationAPIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
